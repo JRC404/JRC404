@@ -1,4 +1,4 @@
-🔭 I’m currently working on Node.js development
+🔭 I’m currently working on Node.js development with either MongoDB or MS-SQL.
 
 <!--
 **JRC404/JRC404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
